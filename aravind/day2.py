@@ -1,3 +1,4 @@
-a=""" Aravind is a good boy.I loved python.I loved travelling.
-I like icream . Iam basketball player."""
+a=[10,20]
+b=a
+b+=[30,40]
 print(a)
