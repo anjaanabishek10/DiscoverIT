@@ -1,0 +1,16 @@
+a='pytHon iS a pRogramming lAnguage '
+b=a.title()
+c=a.capitalize()
+c=a.upper()
+b=a.lower()
+new=a.swapcase()
+n=a.split('u')
+print(new)
+print(b,c)
+print(n)
+name=['a','c','f','y','c','a','a']
+name.append('m')
+print(name)
+new=name.count('a')
+z=len(name)
+print(new,z)
