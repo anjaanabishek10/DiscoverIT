@@ -1,0 +1,10 @@
+a={1,2,3,4,5}
+b=list(a)
+b[2]=4
+a=set(b)
+print(a)
+name={1:'abi',2:'aravi',3:'priya'}
+b=name.keys()
+c=name.values()
+print(b)
+print(c)
