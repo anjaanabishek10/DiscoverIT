@@ -1,7 +1,12 @@
 a = int(input())
-b = int(input())
-print(a + b)
-print(a - b)
-print(a * b)
-print(int(a / b))
-print(a / b)
+b = input()
+c = int(input())
+if(b == "+"):
+    print(a + c)
+elif(b == "-"):
+    print(a - c)
+elif(b == "*"):
+    print(a * c)
+elif(b == "/"):
+    print(a / c)        
+    
